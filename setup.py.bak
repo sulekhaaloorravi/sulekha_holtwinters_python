@@ -16,7 +16,7 @@ setup(
     version='1.5.0',  # Required
     description='A Holt Winters implementation Python project using Pandas Dataframe',  # Required
     long_description=long_description,  # Optional
-    url='https://github.com/sulekhaaloorravi/sulekha_holtwinters_python',  # Optional
+    url='https://github.com/sulekhaaloorravi-python/sulekha_holtwinters_python',  # Optional
     author='Sulekha Aloorravi',  # Optional
     author_email='sulekha.aloorravi@gmail.com',  # Optional
     classifiers=[  # Optional
