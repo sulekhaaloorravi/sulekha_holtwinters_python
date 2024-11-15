@@ -3,7 +3,7 @@ Email: sulekha.aloorravi@gmail.com
 Package: sulekha_holtwinters_python
 This package is to forecast timeseries on a Pandas Dataframe using Holt winters Forecasting model.
 
-URL to test this code: https://github.com/sulekhaaloorravi-python/sulekha_holtwinters_python/blob/master/test_holtwinters.ipynb
+URL to test this code: https://github.com/sulekhaaloorravi/sulekha_holtwinters_python/blob/main/tests/test_holtwinters.py
 
 Example to load existing package data:
         #import package
